@@ -1,5 +1,6 @@
 Based on the Docker [getting-started To Do app](https://docs.docker.com/get-started/02_our_app/)
 
+This is a simple NodeJs to-do app with SQLite backend
 
 # Docker build, run, stop, remove
 ```
